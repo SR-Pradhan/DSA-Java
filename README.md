@@ -17,8 +17,7 @@ Each solution is organized by topic and day-wise practice, written in clean, beg
 
 ## 🛠️ Technologies Used
 
-- 💻 Language: Java  
-- 🧪 IDE: Eclipse 
-- 🗂️ Project Type: Java Project with custom packages and class files  
-- 🔍 Git: Version control using Git & GitHub  
-
+- 💻 **Language:** Java  
+- 🧪 **IDE:** Eclipse   
+- 🔍 **Git:** Version control using Git & GitHub  
+- 🗂️ **Project Type:** Java Project with custom packages and class files  
