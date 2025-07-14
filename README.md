@@ -1,4 +1,4 @@
-# 📘 DSA_Java
+# 📘 DSA-Java
 
 A collection of Java programs focused on mastering **Data Structures and Algorithms (DSA)**.  
 Each solution is organized by topic and day-wise practice, written in clean, beginner-friendly Java.
